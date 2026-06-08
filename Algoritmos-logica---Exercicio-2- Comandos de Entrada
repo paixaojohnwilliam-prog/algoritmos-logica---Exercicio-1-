@@ -1,0 +1,12 @@
+Algoritmo "Meu Nome"
+
+Var   Nome: Caractere
+
+
+Inicio
+           Escreva ("Digite seu Nome: ")
+           Leia (Nome)
+           Escreva ("Muito Prazer!")
+
+
+Fimalgoritmo
